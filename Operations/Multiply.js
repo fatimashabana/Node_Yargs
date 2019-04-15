@@ -1,0 +1,1 @@
+module.exports=(...args)=>args.reduce((acc,value)=>acc*=value,1);
